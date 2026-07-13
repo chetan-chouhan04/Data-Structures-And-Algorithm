@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1539-kth-missing-positive-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
