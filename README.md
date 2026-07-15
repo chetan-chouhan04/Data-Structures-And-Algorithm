@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -70,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
