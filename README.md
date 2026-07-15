@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
