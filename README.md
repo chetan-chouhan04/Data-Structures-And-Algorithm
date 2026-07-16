@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1020-number-of-enclaves) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
