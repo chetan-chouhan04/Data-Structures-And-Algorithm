@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0994-rotting-oranges) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
+| [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
