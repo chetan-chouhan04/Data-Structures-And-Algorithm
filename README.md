@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Topological Sort
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
