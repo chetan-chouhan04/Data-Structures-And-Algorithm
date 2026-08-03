@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0785-is-graph-bipartite) |
@@ -182,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
