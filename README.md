@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0207-course-schedule) |
@@ -186,9 +188,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
