@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
