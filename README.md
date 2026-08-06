@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
