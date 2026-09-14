@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0498-diagonal-traverse) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -220,4 +225,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0498-diagonal-traverse) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
