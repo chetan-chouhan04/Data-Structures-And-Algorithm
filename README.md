@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0498-diagonal-traverse) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
