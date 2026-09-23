@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
@@ -253,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
