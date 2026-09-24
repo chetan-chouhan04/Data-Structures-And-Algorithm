@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
