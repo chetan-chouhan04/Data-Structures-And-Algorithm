@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0523-continuous-subarray-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
