@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
