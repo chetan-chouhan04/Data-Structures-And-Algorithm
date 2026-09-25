@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0523-continuous-subarray-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
