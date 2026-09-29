@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
