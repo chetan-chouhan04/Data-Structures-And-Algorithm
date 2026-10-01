@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
