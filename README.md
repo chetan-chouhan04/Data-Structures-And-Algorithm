@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0992-subarrays-with-k-different-integers) |
@@ -299,4 +302,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chetan-chouhan04/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
